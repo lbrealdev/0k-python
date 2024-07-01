@@ -86,3 +86,5 @@
 
 - [Joining Strings in Python: A "Huh" Moment](https://berglyd.net/blog/2024/06/joining-strings-in-python/)
 - [Predicting solar eclipses with Python](https://erikbern.com/2024/04/07/predicting-solar-eclipses-with-python)
+- [Modern Good Practices for Python Development](https://www.stuartellis.name/articles/python-modern-practices/)
+
