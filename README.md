@@ -21,3 +21,7 @@ Python official page: https://www.python.org/
 - [Python Testing](https://github.com/lbrealdev/0k-python/blob/main/python-testing)
 - [Python TUI](https://github.com/lbrealdev/0k-python/blob/main/python-tui)
 - [Python Blogs](https://github.com/lbrealdev/0k-python/blob/main/python-blogs)
+
+## Python EOL and Support
+
+- [Python EOL](https://endoflife.date/python)

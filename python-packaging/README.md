@@ -4,9 +4,10 @@
 
 - [Packaging python](https://packaging.python.org/en/latest/)
 
-#### Discussions
+#### Guides
 
 - [src layout vs flat layout](https://packaging.python.org/en/latest/discussions/src-layout-vs-flat-layout/)
+- [inline script metadata](https://packaging.python.org/en/latest/specifications/inline-script-metadata/#inline-script-metadata)
 
 ## Python package tools
 

@@ -16,6 +16,11 @@
 - [How to Use Generators and yield in Python](https://realpython.com/introduction-to-python-generators/)
 - [Defining Main Functions in Python](https://realpython.com/python-main-function/)
 - [Python's Built-in Functions: A Complete Exploration](https://realpython.com/python-built-in-functions/)
+- [Python Command-Line Arguments](https://realpython.com/python-command-line-arguments/)
+- [Python Metaclasses](https://realpython.com/python-metaclasses/)
+- [Python Classes: The Power of Object-Oriented Programming](https://realpython.com/python-classes/)
+- [Python Protocols: Leveraging Structural Subtyping](https://realpython.com/python-protocol/#dynamic-and-static-typing-in-python)
+- [Duck Typing in Python: Writing Flexible and Decoupled Code](https://realpython.com/duck-typing-python/)
 
 ## Mathspp
 > Website: https://mathspp.com
@@ -58,6 +63,8 @@
 - [The difference between return and print in Python](https://www.pythonmorsels.com/print-vs-return/)
 - [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)
 - [Data structures contain pointers](https://www.pythonmorsels.com/data-structures-contain-pointers/)
+- [Converting a string to a datetime](https://www.pythonmorsels.com/converting-a-string-to-a-datetime/)
+- [Find your strptime/strftime format](https://www.pythonmorsels.com/strptime/#formats)
 
 ## Test Driven
 > Website: https://testdriven.io/
@@ -95,6 +102,7 @@
 > Website: https://tush.ar/
 
 - [Replacing pyinstaller with 100 lines of code](https://tush.ar/post/packaged/)
+- [The Comprehensive Guide to mypy](https://tush.ar/post/mypy/)
 -------------
 
 ## Blogs Python / Rust
@@ -120,6 +128,11 @@
 - [Please don't hijack my Python root logger](https://rednafi.com/python/no_hijack_root_logger/)
 - [How to Create a Pre-Commit Hook](https://stefaniemolin.com/articles/devx/pre-commit/hook-creation-guide/)
 - [Articles: Production-ready Docker packaging for Python developers](https://pythonspeed.com/docker/)
+- [Refactoring Python with 🌳 Tree-sitter & Jedi](https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/)
+- [Passing a function as an argument to another function in Python](https://treyhunner.com/2020/01/passing-functions-as-arguments/)
+- [Why you should be using pathlib](https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/)
+- [A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/)
+- [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
 
 ## Python Releases
 
