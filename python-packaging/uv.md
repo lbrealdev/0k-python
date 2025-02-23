@@ -22,6 +22,11 @@ Install a specific Python version:
 uv python install 3.12
 ```
 
+Update uv to the latest version:
+```shell
+uv self update
+```
+
 ### Source
 
 - Website: https://docs.astral.sh/uv/
@@ -36,3 +41,4 @@ uv python install 3.12
 - [Docker images using uv's python](https://mkennedy.codes/posts/python-docker-images-using-uv-s-new-python-features/)
 - [Production-ready Docker Containers with uv](https://hynek.me/articles/docker-uv/)
 - [Switching from virtualenvwrapper to direnv, Starship, and uv](https://treyhunner.com/2024/10/switching-from-virtualenvwrapper-to-direnv-starship-and-uv/)
+- [A comprehensive guide to python project management and packaging concepts illustrated with uv part 1](https://reinforcedknowledge.com/a-comprehensive-guide-to-python-project-management-and-packaging-concepts-illustrated-with-uv-part-i/)
