@@ -28,6 +28,7 @@
 - [Continuous Integration and Deployment for Python With GitHub Actions](https://realpython.com/github-actions-python/)
 - [Python Keywords: An Introduction](https://realpython.com/python-keywords/)
 - [Basic Input and Output in Python](https://realpython.com/python-input-output/)
+- [Primer on Jinja Templating](https://realpython.com/primer-on-jinja-templating/)
 
 ## Mathspp
 > Website: https://mathspp.com
@@ -76,6 +77,7 @@
 - [Converting a string to a datetime](https://www.pythonmorsels.com/converting-a-string-to-a-datetime/)
 - [Find your strptime/strftime format](https://www.pythonmorsels.com/strptime/#formats)
 - [Python's pathlib module](https://www.pythonmorsels.com/pathlib-module/)
+- [Using "else" in a comprehension](https://www.pythonmorsels.com/comprehension-with-else/)
 
 ## Test Driven
 > Website: https://testdriven.io/
