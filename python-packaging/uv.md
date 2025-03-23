@@ -1,10 +1,15 @@
 # uv: An extremely fast Python package and project manager, written in Rust.
 
-### Setup
+### Source
+
+- Website: https://docs.astral.sh/uv/
+- GitHub Repository: https://github.com/astral-sh/uv
+
+### Usage
 
 Installing `uv`:
 ```shell
-curl -LsSf https://astral.sh/uv/install.sh | sh
+curl -fsSL https://astral.sh/uv/install.sh | sh
 ```
 
 To enable shell autocompletion for uv commands, run one of the following:
@@ -27,10 +32,25 @@ Update uv to the latest version:
 uv self update
 ```
 
-### Source
+### Cache
 
-- Website: https://docs.astral.sh/uv/
-- GitHub Repository: https://github.com/astral-sh/uv
+Clear the cache, removing all entries or those linked to specific packages:
+```shell
+uv cache clean
+```
+
+Prune all unreachable objects from the cache:
+```shell
+uv cache prune
+```
+
+Show the cache directory:
+```shell
+uv cache dir
+```
+
+> [!NOTE]
+> See more about uv cache in [uv cache](https://docs.astral.sh/uv/concepts/cache/#cache-directory)
 
 ### Blogs
 
