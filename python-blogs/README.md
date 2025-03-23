@@ -29,6 +29,7 @@
 - [Python Keywords: An Introduction](https://realpython.com/python-keywords/)
 - [Basic Input and Output in Python](https://realpython.com/python-input-output/)
 - [Primer on Jinja Templating](https://realpython.com/primer-on-jinja-templating/)
+- [Python's Counter: The Pythonic Way to Count Objects](https://realpython.com/python-counter/)
 
 ## Mathspp
 > Website: https://mathspp.com
