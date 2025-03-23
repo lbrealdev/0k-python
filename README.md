@@ -18,6 +18,7 @@ Python official page: https://www.python.org/
 - [Python Virtual Environments](https://github.com/lbrealdev/0k-python/tree/main/python-virtualenvs)
 - [Python Enhancement Proposals](https://github.com/lbrealdev/0k-python/blob/main/python-peps)
 - [Python Testing](https://github.com/lbrealdev/0k-python/blob/main/python-testing)
+- [Python GUI](https://github.com/lbrealdev/0k-python/blob/main/python-gui)
 - [Python TUI](https://github.com/lbrealdev/0k-python/blob/main/python-tui)
 - [Python Blogs](https://github.com/lbrealdev/0k-python/blob/main/python-blogs)
 - [Python Web](https://github.com/lbrealdev/0k-python/blob/main/python-web)
