@@ -30,6 +30,9 @@
 - [Basic Input and Output in Python](https://realpython.com/python-input-output/)
 - [Primer on Jinja Templating](https://realpython.com/primer-on-jinja-templating/)
 - [Python's Counter: The Pythonic Way to Count Objects](https://realpython.com/python-counter/)
+- [How to Check if a Python String Contains a Substring](https://realpython.com/python-string-contains-substring/)
+- [Python's zipapp: Build Executable Zip Applications](https://realpython.com/python-zipapp/)
+- [Context Managers and Python's with Statement](https://realpython.com/python-with-statement/)
 
 ## Mathspp
 > Website: https://mathspp.com
@@ -154,6 +157,10 @@
 - [How to Use Regular Expressions in Python](https://blog.appsignal.com/2025/01/15/how-to-use-regular-expressions-in-python.html)
 - [Portable Python Bundles on Windows](https://dev.to/treehouse/portable-python-bundles-on-windows-41ac)
 - [Uncommon Uses of Python in Commonly Used Libraries](https://eugeneyan.com/writing/uncommon-python/)
+- [Understanding Context Manager and its Syntastic Sugar](https://bjoernricks.github.io/posts/python/context-manager/)
+- [A Retrospective on Requests](https://blog.ian.stapletoncordas.co/2024/02/a-retrospective-on-requests)
+- [Production Ready Requests](https://blog.ian.stapletoncordas.co/2024/03/production-ready-requests)
+- [A Retrospective on github3.py](https://blog.ian.stapletoncordas.co/2024/01/a-retrospective-on-github3py)
 
 ## Python Releases
 
