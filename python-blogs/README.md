@@ -19,7 +19,7 @@
 - [Python Command-Line Arguments](https://realpython.com/python-command-line-arguments/)
 - [Python Metaclasses](https://realpython.com/python-metaclasses/)
 - [Python Classes: The Power of Object-Oriented Programming](https://realpython.com/python-classes/)
-- [Python Protocols: Leveraging Structural Subtyping](https://realpython.com/python-protocol/#dynamic-and-static-typing-in-python)
+- [Python Protocols: Leveraging Structural Subtyping](https://realpython.com/python-protocol/)
 - [Duck Typing in Python: Writing Flexible and Decoupled Code](https://realpython.com/duck-typing-python/)
 - [Python's pathlib Module: Taming the File System](https://realpython.com/python-pathlib/)
 - [What Are Python Wheels and Why Should You Care?](https://realpython.com/python-wheels/)
@@ -33,6 +33,7 @@
 - [How to Check if a Python String Contains a Substring](https://realpython.com/python-string-contains-substring/)
 - [Python's zipapp: Build Executable Zip Applications](https://realpython.com/python-zipapp/)
 - [Context Managers and Python's with Statement](https://realpython.com/python-with-statement/)
+- [How to Publish an Open-Source Python Package to PyPI](https://realpython.com/pypi-publish-python-package/)
 
 ## Mathspp
 > Website: https://mathspp.com
@@ -41,6 +42,7 @@
 - [Breaking out of nested loops with generators](https://mathspp.com/blog/breaking-out-of-nested-loops-with-generators)
 - [503 days working full-time on FOSS: lessons learned](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned)
 - [TIL #103 – debugging the new Python REPL with trace and PYREPL_TRACE.](https://mathspp.com/blog/til/debugging-the-new-python-repl-with-trace-and-pyrepl-trace)
+- [Module enum overview](https://mathspp.com/blog/module-enum-overview)
 
 ## The Python Papers
 > Website: https://www.pythonpapers.com
@@ -161,6 +163,10 @@
 - [A Retrospective on Requests](https://blog.ian.stapletoncordas.co/2024/02/a-retrospective-on-requests)
 - [Production Ready Requests](https://blog.ian.stapletoncordas.co/2024/03/production-ready-requests)
 - [A Retrospective on github3.py](https://blog.ian.stapletoncordas.co/2024/01/a-retrospective-on-github3py)
+- [Essential Python web security](https://opensource.net/essential-python-web-security/)
+- [14 Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/)
+- [Python's new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/)
+- [How to run Python in production](https://ashishb.net/programming/python-in-production-2/)
 
 ## Python Releases
 
@@ -170,3 +176,7 @@
 ## Python Twitter Threads
 
 - [What is a "standalone" Python build?](https://x.com/charliermarsh/status/1864050698574311561)
+
+## Python Guides
+
+- [Scientific Python Library Development Guide](https://learn.scientific-python.org/development/)

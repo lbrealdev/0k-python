@@ -38,3 +38,7 @@ Python official page: https://www.python.org/
 ## Python Tools
 
 - [Python Tutor](https://pythontutor.com/)
+
+## Python Guides
+
+- [Scientific Python Library Development Guide](https://learn.scientific-python.org/development/)
