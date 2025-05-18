@@ -62,3 +62,4 @@ uv cache dir
 - [Production-ready Docker Containers with uv](https://hynek.me/articles/docker-uv/)
 - [Switching from virtualenvwrapper to direnv, Starship, and uv](https://treyhunner.com/2024/10/switching-from-virtualenvwrapper-to-direnv-starship-and-uv/)
 - [A comprehensive guide to python project management and packaging concepts illustrated with uv part 1](https://reinforcedknowledge.com/a-comprehensive-guide-to-python-project-management-and-packaging-concepts-illustrated-with-uv-part-i/)
+- [pre-commit: install with uv](https://adamj.eu/tech/2025/05/07/pre-commit-install-uv/)

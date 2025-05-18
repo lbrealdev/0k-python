@@ -34,6 +34,7 @@
 - [Python's zipapp: Build Executable Zip Applications](https://realpython.com/python-zipapp/)
 - [Context Managers and Python's with Statement](https://realpython.com/python-with-statement/)
 - [How to Publish an Open-Source Python Package to PyPI](https://realpython.com/pypi-publish-python-package/)
+- [Python Glossary](https://realpython.com/ref/glossary/)
 
 ## Mathspp
 > Website: https://mathspp.com
@@ -167,6 +168,7 @@
 - [14 Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/)
 - [Python's new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/)
 - [How to run Python in production](https://ashishb.net/programming/python-in-production-2/)
+- [Python: create temporary files and directories in unittest](https://adamj.eu/tech/2024/12/30/python-temporary-files-directories-unittest/)
 
 ## Python Releases
 
