@@ -38,3 +38,5 @@ Python official page: https://www.python.org/
 ## Python Tools
 
 - [Python Tutor](https://pythontutor.com/)
+- [Ty Web](https://types.ruff.rs/)
+- [Ruff Web](https://play.ruff.rs/)
