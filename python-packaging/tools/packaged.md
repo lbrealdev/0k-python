@@ -1,6 +1,6 @@
-# Packaged: The easiest way to ship python applications
+# Packaged
 
-// to do
+Packaged: The easiest way to ship python applications.
 
 ## Sources
 

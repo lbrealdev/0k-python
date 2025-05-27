@@ -1,6 +1,6 @@
-# PDM: A modern Python package and dependency manager supporting the latest PEP standards
+# PDM
 
-// to do
+PDM: A modern Python package and dependency manager supporting the latest PEP standards.
 
 ## Sources
 
