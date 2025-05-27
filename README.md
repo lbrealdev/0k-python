@@ -35,6 +35,9 @@ Python official page: https://www.python.org/
 
 - [Discuss Python](https://discuss.python.org/latest)
 
-## Python Tools
+## Python Web Tools
 
 - [Python Tutor](https://pythontutor.com/)
+- [Ty Web](https://types.ruff.rs/)
+- [Ruff Web](https://play.ruff.rs/)
+- [Python Cards](https://python.cards/)
