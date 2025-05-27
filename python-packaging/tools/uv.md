@@ -1,6 +1,8 @@
-# uv: An extremely fast Python package and project manager, written in Rust.
+# uv
 
-### Source
+uv: An extremely fast Python package and project manager, written in Rust.
+
+## Source
 
 - Website: https://docs.astral.sh/uv/
 - GitHub Repository: https://github.com/astral-sh/uv
@@ -12,7 +14,7 @@ Installing `uv`:
 curl -fsSL https://astral.sh/uv/install.sh | sh
 ```
 
-To enable shell autocompletion for uv commands, run one of the following:
+Enable shell autocompletion for `uv`:
 ```shell
 echo 'eval "$(uv generate-shell-completion bash)"' >> ~/.bashrc
 ```
@@ -22,14 +24,47 @@ Unistalling `uv`:
 rm ~/.cargo/bin/uv ~/.cargo/bin/uvx
 ```
 
+Update `uv` to the latest version:
+```shell
+uv self update
+```
+
+### Python
+
 Install a specific Python version:
 ```shell
 uv python install 3.12
 ```
 
-Update uv to the latest version:
+### Venv
+
+Create a virtual environment without project:
 ```shell
-uv self update
+uv venv --no-project venv
+```
+
+Activate virtual environment:
+```shell
+source venv/bin/activate
+```
+
+### Pip
+
+Make sure you have a virtual environment created to use `uv pip` following this guide, `uv` also works with `--system`, but this is not addressed in this guide.
+
+List packages installed in an environment:
+```shell
+uv pip list
+```
+
+Install packages into an environment:
+```shell
+uv pip install <package-name>
+```
+
+Uninstall packages from an environment:
+```shell
+uv pip uninstall <package-name>
 ```
 
 ### Cache
@@ -52,7 +87,7 @@ uv cache dir
 > [!NOTE]
 > See more about uv cache in [uv cache](https://docs.astral.sh/uv/concepts/cache/#cache-directory)
 
-### Blogs
+## Related links
 
 - [uv: Unified Python packaging from Astral](https://astral.sh/blog/uv-unified-python-packaging)
 - [uv: Unified Python packaging from Simon Willison](https://simonwillison.net/2024/Aug/20/uv-unified-python-packaging/)
