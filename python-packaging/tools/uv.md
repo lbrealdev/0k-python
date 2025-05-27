@@ -2,7 +2,7 @@
 
 uv: An extremely fast Python package and project manager, written in Rust.
 
-## Source
+## Sources
 
 - Website: https://docs.astral.sh/uv/
 - GitHub Repository: https://github.com/astral-sh/uv
