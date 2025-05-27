@@ -2,7 +2,7 @@
 
 // to do
 
-### Source
+## Sources
 
 - Website: https://packaged.live/
 - GitHub repository: https://github.com/tusharsadhwani/packaged

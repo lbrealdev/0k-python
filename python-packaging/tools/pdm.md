@@ -2,7 +2,7 @@
 
 // to do
 
-### Source
+## Sources
 
 - Website: https://pdm-project.org/en/latest/
 - GitHub repository: https://github.com/pdm-project/pdm
