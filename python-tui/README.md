@@ -5,7 +5,6 @@
 - [Textual](https://textual.textualize.io/)
 - [Textual - github](https://github.com/textualize/textual)
 
-
 ### Python TUI projects
 
 Catalog:

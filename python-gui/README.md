@@ -2,6 +2,6 @@
 
 // to do
 
-### Related links
+## Related links
 
 - [PythonGUIs](https://www.pythonguis.com/)

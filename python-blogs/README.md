@@ -92,6 +92,7 @@
 
 - [Clean Code in Python](https://testdriven.io/blog/clean-code-python/)
 - [Using HTMX with FastAPI](https://testdriven.io/blog/fastapi-htmx/)
+- [Modern Test-Driven Development in Python](https://testdriven.io/blog/modern-tdd/)
 
 ## Pybit
 > Website: https://pybit.es/
