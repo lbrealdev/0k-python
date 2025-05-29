@@ -14,14 +14,26 @@ Installing `uv`:
 curl -fsSL https://astral.sh/uv/install.sh | sh
 ```
 
+Change installation path when installing `uv`:
+```shell
+curl -LsSf https://astral.sh/uv/install.sh | sudo env UV_INSTALL_DIR="/usr/local/bin" sh
+```
+
 Enable shell autocompletion for `uv`:
 ```shell
 echo 'eval "$(uv generate-shell-completion bash)"' >> ~/.bashrc
 ```
 
-Unistalling `uv`:
+To uninstall `uv`, first clean up stored data:
 ```shell
-rm ~/.cargo/bin/uv ~/.cargo/bin/uvx
+uv cache clean
+rm -r "$(uv python dir)"
+rm -r "$(uv tool dir)"
+```
+
+Once cleaned up stored data, remove `uv` and `uvx` binaries:
+```shell
+rm ~/.local/bin/uv ~/.local/bin/uvx
 ```
 
 Update `uv` to the latest version:
@@ -67,6 +79,59 @@ Uninstall packages from an environment:
 uv pip uninstall <package-name>
 ```
 
+### Tool
+
+List installed tools:
+```shell
+uv tool list
+```
+
+Ensure that the tool executable is on the `PATH`:
+```shell
+uv tool update-shell
+```
+
+Upgrade installed tools:
+```shell
+uv tool upgrade --all
+```
+
+Install a tool:
+```shell
+uv tool install <name>
+```
+
+Uninstall a tool:
+```shell
+uv tool uninstall <name>
+```
+
+Uninstall all tools:
+```shell
+uv tool uninstall --all
+```
+
+#### uv system workaround
+
+```shell
+sudo su
+
+curl -LsSf https://astral.sh/uv/install.sh | env UV_INSTALL_DIR="/usr/local/bin" sh
+
+mkdir -p /opt/uv/venv
+
+export UV_TOOL_BIN_DIR=/usr/local/bin
+export UV_TOOL_DIR=/opt/uv/venv
+
+uv tool install ansible-core
+```
+
+Related issues:
+
+- https://github.com/astral-sh/uv/issues/8435
+- https://github.com/astral-sh/uv/issues/8431
+- https://github.com/astral-sh/uv/issues/7654
+
 ### Cache
 
 Clear the cache, removing all entries or those linked to specific packages:
@@ -86,6 +151,11 @@ uv cache dir
 
 > [!NOTE]
 > See more about uv cache in [uv cache](https://docs.astral.sh/uv/concepts/cache/#cache-directory)
+
+## Documentation
+
+- [uv: configuration files](https://docs.astral.sh/uv/configuration/files/)
+- [uv: environment variables](https://docs.astral.sh/uv/configuration/environment/)
 
 ## Related links
 
