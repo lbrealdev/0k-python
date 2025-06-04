@@ -126,6 +126,37 @@ export UV_TOOL_DIR=/opt/uv/venv
 uv tool install ansible-core
 ```
 
+`uv-receipt.json`
+```shell
+cat ~/.config/uv/uv-receipt.json | jq
+```
+
+```json
+{
+  "binaries": [
+    "uv",
+    "uvx"
+  ],
+  "binary_aliases": {},
+  "cdylibs": [],
+  "cstaticlibs": [],
+  "install_layout": "flat",
+  "install_prefix": "/usr/local/bin",
+  "modify_path": true,
+  "provider": {
+    "source": "cargo-dist",
+    "version": "0.28.4"
+  },
+  "source": {
+    "app_name": "uv",
+    "name": "uv",
+    "owner": "astral-sh",
+    "release_type": "github"
+  },
+  "version": "0.7.8"
+}
+```
+
 Related issues:
 
 - https://github.com/astral-sh/uv/issues/8435
