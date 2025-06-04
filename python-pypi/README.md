@@ -4,8 +4,8 @@
 
 - [Oven](https://pyoven.org/)
 - [PyPi Browser](https://pypi-browser.org/)
-- [PyPi Scout](https://pypiscout.com/)
 
 ## Related links
 
+- [Publishing to PyPI with a Trusted Publisher](https://docs.pypi.org/trusted-publishers/)
 - [Attestations: A new generation of signatures on PyPI](https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/)

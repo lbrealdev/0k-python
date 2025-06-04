@@ -7,11 +7,11 @@
 ## Python package tools
 
 - [uv](https://github.com/lbrealdev/0k-python/blob/main/python-packaging/tools/uv.md)
-- [Poetry](https://github.com/lbrealdev/0k-python/blob/main/python-packaging/tools/poetry.md)
-- [Rye](https://github.com/lbrealdev/0k-python/blob/main/python-packaging/tools/rye.md)
-- [Yen](https://github.com/lbrealdev/0k-python/blob/main/python-packaging/tools/yen.md)
-- [PDM](https://github.com/lbrealdev/0k-python/blob/main/python-packaging/tools/pdm.md)
-- [Packaged](https://github.com/lbrealdev/0k-python/blob/main/python-packaging/tools/packaged.md)
+- [poetry](https://github.com/lbrealdev/0k-python/blob/main/python-packaging/tools/poetry.md)
+- [rye](https://github.com/lbrealdev/0k-python/blob/main/python-packaging/tools/rye.md)
+- [yen](https://github.com/lbrealdev/0k-python/blob/main/python-packaging/tools/yen.md)
+- [pdm](https://github.com/lbrealdev/0k-python/blob/main/python-packaging/tools/pdm.md)
+- [packaged](https://github.com/lbrealdev/0k-python/blob/main/python-packaging/tools/packaged.md)
 
 ## Guides
 
