@@ -1,8 +1,8 @@
-# Packaged: The easiest way to ship python applications
+# Packaged
 
-// to do
+Packaged: The easiest way to ship python applications.
 
-### Source
+## Sources
 
 - Website: https://packaged.live/
 - GitHub repository: https://github.com/tusharsadhwani/packaged

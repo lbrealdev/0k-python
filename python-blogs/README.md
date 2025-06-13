@@ -34,6 +34,8 @@
 - [Python's zipapp: Build Executable Zip Applications](https://realpython.com/python-zipapp/)
 - [Context Managers and Python's with Statement](https://realpython.com/python-with-statement/)
 - [How to Publish an Open-Source Python Package to PyPI](https://realpython.com/pypi-publish-python-package/)
+- [Build a Command-Line To-Do App With Python and Typer](https://realpython.com/python-typer-cli/)
+- [Control Flow Structures in Python](https://realpython.com/python-control-flow/)
 - [Python Glossary](https://realpython.com/ref/glossary/)
 
 ## Mathspp
