@@ -172,6 +172,7 @@
 - [Python's new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/)
 - [How to run Python in production](https://ashishb.net/programming/python-in-production-2/)
 - [Python: create temporary files and directories in unittest](https://adamj.eu/tech/2024/12/30/python-temporary-files-directories-unittest/)
+- [Faster Python: Concurrency in async/await and threading](https://blog.jetbrains.com/pycharm/2025/06/concurrency-in-async-await-and-threading/)
 
 ## Python Releases
 
