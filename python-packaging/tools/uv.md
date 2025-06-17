@@ -11,7 +11,7 @@ uv: An extremely fast Python package and project manager, written in Rust.
 
 Installing `uv`:
 ```shell
-curl -fsSL https://astral.sh/uv/install.sh | sh
+curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
 Change installation path when installing `uv`:
@@ -199,3 +199,11 @@ uv cache dir
 - [Switching from virtualenvwrapper to direnv, Starship, and uv](https://treyhunner.com/2024/10/switching-from-virtualenvwrapper-to-direnv-starship-and-uv/)
 - [A comprehensive guide to python project management and packaging concepts illustrated with uv part 1](https://reinforcedknowledge.com/a-comprehensive-guide-to-python-project-management-and-packaging-concepts-illustrated-with-uv-part-i/)
 - [pre-commit: install with uv](https://adamj.eu/tech/2025/05/07/pre-commit-install-uv/)
+
+## Resources
+
+- [simple-modern-uv](https://github.com/jlevy/simple-modern-uv)
+- [uv-migrator](https://github.com/stvnksslr/uv-migrator)
+- [python-blueprint](https://github.com/johnthagen/python-blueprint)
+- [copier-uv](https://github.com/pawamoy/copier-uv)
+- [cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv)
