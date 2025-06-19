@@ -36,6 +36,8 @@
 - [How to Publish an Open-Source Python Package to PyPI](https://realpython.com/pypi-publish-python-package/)
 - [Build a Command-Line To-Do App With Python and Typer](https://realpython.com/python-typer-cli/)
 - [Control Flow Structures in Python](https://realpython.com/python-control-flow/)
+- [Thinking Recursively in Python](https://realpython.com/python-thinking-recursively/)
+- [Defining Your Own Python Function](https://realpython.com/defining-your-own-python-function/)
 - [Python Glossary](https://realpython.com/ref/glossary/)
 
 ## Mathspp
@@ -173,6 +175,7 @@
 - [How to run Python in production](https://ashishb.net/programming/python-in-production-2/)
 - [Python: create temporary files and directories in unittest](https://adamj.eu/tech/2024/12/30/python-temporary-files-directories-unittest/)
 - [Faster Python: Concurrency in async/await and threading](https://blog.jetbrains.com/pycharm/2025/06/concurrency-in-async-await-and-threading/)
+- [Faster Python Docker Builds](https://www.revsys.com/tidbits/faster-python-docker-builds/)
 
 ## Python Releases
 
