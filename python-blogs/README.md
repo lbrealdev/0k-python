@@ -71,6 +71,8 @@
 - [After You. No, I Insist, You Go First • Python's Operator Precedence](https://www.thepythoncodingstack.com/p/python-operator-precedence-after-you-no-i-insist)
 - [The Shortest Python `import` Tutorial • A Picture Story](https://www.thepythoncodingstack.com/p/the-shortest-python-import-tutorial)
 - [On Shared Birthdays (and a Bit on Pythagorean Triplets)](https://www.thepythoncodingstack.com/p/solving-birthday-paradox-python-itertools)
+- [Demystifying Decorators • They Don't Need to be Cryptic](https://www.thepythoncodingstack.com/p/demystifying-python-decorators)
+- [Demystifying Decorators • Parts 3 to 7](https://www.thepythoncodingstack.com/p/demystifying-decorators-parts-3-to-7)
 
 ## Python Engineer
 > Website: https://www.python-engineer.com
