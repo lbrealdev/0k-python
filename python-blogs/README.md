@@ -38,6 +38,8 @@
 - [Control Flow Structures in Python](https://realpython.com/python-control-flow/)
 - [Thinking Recursively in Python](https://realpython.com/python-thinking-recursively/)
 - [Defining Your Own Python Function](https://realpython.com/defining-your-own-python-function/)
+- [How Can You Structure Your Python Script?](https://realpython.com/python-script-structure/)
+- [Python Textual: Build Beautiful UIs in the Terminal](https://realpython.com/python-textual/)
 - [Python Glossary](https://realpython.com/ref/glossary/)
 
 ## Mathspp
