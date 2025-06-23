@@ -36,6 +36,10 @@
 - [How to Publish an Open-Source Python Package to PyPI](https://realpython.com/pypi-publish-python-package/)
 - [Build a Command-Line To-Do App With Python and Typer](https://realpython.com/python-typer-cli/)
 - [Control Flow Structures in Python](https://realpython.com/python-control-flow/)
+- [Thinking Recursively in Python](https://realpython.com/python-thinking-recursively/)
+- [Defining Your Own Python Function](https://realpython.com/defining-your-own-python-function/)
+- [How Can You Structure Your Python Script?](https://realpython.com/python-script-structure/)
+- [Python Textual: Build Beautiful UIs in the Terminal](https://realpython.com/python-textual/)
 - [Python Glossary](https://realpython.com/ref/glossary/)
 
 ## Mathspp
@@ -67,6 +71,8 @@
 - [After You. No, I Insist, You Go First • Python's Operator Precedence](https://www.thepythoncodingstack.com/p/python-operator-precedence-after-you-no-i-insist)
 - [The Shortest Python `import` Tutorial • A Picture Story](https://www.thepythoncodingstack.com/p/the-shortest-python-import-tutorial)
 - [On Shared Birthdays (and a Bit on Pythagorean Triplets)](https://www.thepythoncodingstack.com/p/solving-birthday-paradox-python-itertools)
+- [Demystifying Decorators • They Don't Need to be Cryptic](https://www.thepythoncodingstack.com/p/demystifying-python-decorators)
+- [Demystifying Decorators • Parts 3 to 7](https://www.thepythoncodingstack.com/p/demystifying-decorators-parts-3-to-7)
 
 ## Python Engineer
 > Website: https://www.python-engineer.com
@@ -173,6 +179,7 @@
 - [How to run Python in production](https://ashishb.net/programming/python-in-production-2/)
 - [Python: create temporary files and directories in unittest](https://adamj.eu/tech/2024/12/30/python-temporary-files-directories-unittest/)
 - [Faster Python: Concurrency in async/await and threading](https://blog.jetbrains.com/pycharm/2025/06/concurrency-in-async-await-and-threading/)
+- [Faster Python Docker Builds](https://www.revsys.com/tidbits/faster-python-docker-builds/)
 
 ## Python Releases
 
