@@ -40,6 +40,7 @@
 - [Defining Your Own Python Function](https://realpython.com/defining-your-own-python-function/)
 - [How Can You Structure Your Python Script?](https://realpython.com/python-script-structure/)
 - [Python Textual: Build Beautiful UIs in the Terminal](https://realpython.com/python-textual/)
+- [How to Get a List of All Files in a Directory With Python](https://realpython.com/get-all-files-in-directory-python/)
 - [Python Glossary](https://realpython.com/ref/glossary/)
 
 ## Mathspp
@@ -180,6 +181,7 @@
 - [Python: create temporary files and directories in unittest](https://adamj.eu/tech/2024/12/30/python-temporary-files-directories-unittest/)
 - [Faster Python: Concurrency in async/await and threading](https://blog.jetbrains.com/pycharm/2025/06/concurrency-in-async-await-and-threading/)
 - [Faster Python Docker Builds](https://www.revsys.com/tidbits/faster-python-docker-builds/)
+- [Will AI Replace Junior Developers? I Asked Experts at Pycon US](https://blog.adarshd.dev/posts/pycon-us-ai-and-future-of-programming/)
 
 ## Python Releases
 

@@ -200,6 +200,7 @@ uv cache dir
 - [A comprehensive guide to python project management and packaging concepts illustrated with uv part 1](https://reinforcedknowledge.com/a-comprehensive-guide-to-python-project-management-and-packaging-concepts-illustrated-with-uv-part-i/)
 - [pre-commit: install with uv](https://adamj.eu/tech/2025/05/07/pre-commit-install-uv/)
 - [Managing Python Versions In Your uv Projects](https://buttondown.com/pdth/archive/managing-python-versions-in-your-uv-projects/)
+- [Fun with uv and PEP 723](https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723)
 
 ## Resources
 
