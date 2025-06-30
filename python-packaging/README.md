@@ -23,3 +23,7 @@
 ## Python Package Glossary
 
 - https://packaging.python.org/en/latest/glossary/#term-built-distribution
+
+## Python Resources
+
+- [Python Developer Tooling Handbook](https://pydevtools.com/handbook/)
