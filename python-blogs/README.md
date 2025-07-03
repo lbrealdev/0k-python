@@ -182,6 +182,7 @@
 - [Faster Python: Concurrency in async/await and threading](https://blog.jetbrains.com/pycharm/2025/06/concurrency-in-async-await-and-threading/)
 - [Faster Python Docker Builds](https://www.revsys.com/tidbits/faster-python-docker-builds/)
 - [Will AI Replace Junior Developers? I Asked Experts at Pycon US](https://blog.adarshd.dev/posts/pycon-us-ai-and-future-of-programming/)
+- [Python regular expression cheatsheet and examples](https://learnbyexample.github.io/python-regex-cheatsheet/)
 
 ## Python Releases
 
