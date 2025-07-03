@@ -23,6 +23,10 @@ Python official page: https://www.python.org/
 - [Python Blogs](https://github.com/lbrealdev/0k-python/blob/main/python-blogs)
 - [Python Web](https://github.com/lbrealdev/0k-python/blob/main/python-web)
 
+## Python Resources
+
+- [Full Stack Python](https://www.fullstackpython.com/)
+
 ## Python EOL and Support
 
 - [Python EOL](https://endoflife.date/python)
