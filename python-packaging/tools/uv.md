@@ -199,6 +199,11 @@ uv cache dir
 - [Switching from virtualenvwrapper to direnv, Starship, and uv](https://treyhunner.com/2024/10/switching-from-virtualenvwrapper-to-direnv-starship-and-uv/)
 - [A comprehensive guide to python project management and packaging concepts illustrated with uv part 1](https://reinforcedknowledge.com/a-comprehensive-guide-to-python-project-management-and-packaging-concepts-illustrated-with-uv-part-i/)
 - [pre-commit: install with uv](https://adamj.eu/tech/2025/05/07/pre-commit-install-uv/)
+- [Managing Python Versions In Your uv Projects](https://buttondown.com/pdth/archive/managing-python-versions-in-your-uv-projects/)
+- [Fun with uv and PEP 723](https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723)
+- [Share Python Scripts Like a Pro: uv and PEP 723 for Easy Deployment](https://thisdavej.com/share-python-scripts-like-a-pro-uv-and-pep-723-for-easy-deployment/)
+- [installing python cli tools globally with uv](https://schpet.com/note/installing-python-cli-tools-globally-with-uv)
+- [Using uv with AWS Lambda](https://docs.astral.sh/uv/guides/integration/aws-lambda/)
 
 ## Resources
 
