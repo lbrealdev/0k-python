@@ -31,9 +31,10 @@ Python official page: https://www.python.org/
 
 - [Python EOL](https://endoflife.date/python)
 
-## Python Cheat
+## Python Cheatsheets
 
 - [SpeedSheet - Python Sheet](https://speedsheet.io/s/python)
+- [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 
 ## Python Forums
 
