@@ -41,6 +41,8 @@
 - [How Can You Structure Your Python Script?](https://realpython.com/python-script-structure/)
 - [Python Textual: Build Beautiful UIs in the Terminal](https://realpython.com/python-textual/)
 - [How to Get a List of All Files in a Directory With Python](https://realpython.com/get-all-files-in-directory-python/)
+- [What Is Python's __init__.py For?](https://realpython.com/python-init-py/)
+- [How to Read User Input From the Keyboard in Python](https://realpython.com/python-keyboard-input/)
 - [Python Glossary](https://realpython.com/ref/glossary/)
 
 ## Mathspp
@@ -183,6 +185,7 @@
 - [Faster Python Docker Builds](https://www.revsys.com/tidbits/faster-python-docker-builds/)
 - [Will AI Replace Junior Developers? I Asked Experts at Pycon US](https://blog.adarshd.dev/posts/pycon-us-ai-and-future-of-programming/)
 - [Python regular expression cheatsheet and examples](https://learnbyexample.github.io/python-regex-cheatsheet/)
+- [Error Handling in Python – try, except, else, & finally Explained with Code Examples](https://www.freecodecamp.org/news/error-handling-in-python-introduction/)
 
 ## Python Releases
 
