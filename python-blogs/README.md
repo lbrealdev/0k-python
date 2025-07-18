@@ -43,6 +43,8 @@
 - [How to Get a List of All Files in a Directory With Python](https://realpython.com/get-all-files-in-directory-python/)
 - [What Is Python's __init__.py For?](https://realpython.com/python-init-py/)
 - [How to Read User Input From the Keyboard in Python](https://realpython.com/python-keyboard-input/)
+- [Build a Contact Book App With Python, Textual, and SQLite](https://realpython.com/contact-book-python-textual/)
+- [Python Scope and the LEGB Rule: Resolving Names in Your Code](https://realpython.com/python-scope-legb-rule/)
 - [Python Glossary](https://realpython.com/ref/glossary/)
 
 ## Mathspp
@@ -186,6 +188,7 @@
 - [Will AI Replace Junior Developers? I Asked Experts at Pycon US](https://blog.adarshd.dev/posts/pycon-us-ai-and-future-of-programming/)
 - [Python regular expression cheatsheet and examples](https://learnbyexample.github.io/python-regex-cheatsheet/)
 - [Error Handling in Python – try, except, else, & finally Explained with Code Examples](https://www.freecodecamp.org/news/error-handling-in-python-introduction/)
+- [How global variables work in Python bytecode](https://fromscratchcode.com/blog/how-global-variables-work-in-python-bytecode/)
 
 ## Python Releases
 
