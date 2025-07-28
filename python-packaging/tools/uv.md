@@ -206,6 +206,9 @@ uv cache dir
 - [Using uv with AWS Lambda](https://docs.astral.sh/uv/guides/integration/aws-lambda/)
 - [things you can do --with uv](https://zaloog.github.io/2025/07/07/uv-with.html)
 - [Solving Wordle with uv's dependency resolver](https://mildbyte.xyz/blog/solving-wordle-with-uv-dependency-resolver/)
+- [How to Migrate your Python & Django Projects to uv](https://www.caktusgroup.com/blog/2025/06/11/migrating-python-django-projects-uv/)
+- [Managing Python Projects With uv: An All-in-One Solution](https://realpython.com/python-uv/)
+- [TIL: Single source version package builds with uv](https://daniel.feldroy.com/posts/til-2025-07-single-source-version-package-builds-with-uv)
 
 ## Resources
 

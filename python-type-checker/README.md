@@ -1,5 +1,7 @@
 # Python Type Checker
 
+- [Static Typing with Python](https://typing.python.org/en/latest/index.html)
+
 ## Python Type Checker Tools
 
 - [ty](https://github.com/astral-sh/ty)
