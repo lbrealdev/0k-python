@@ -45,6 +45,7 @@
 - [How to Read User Input From the Keyboard in Python](https://realpython.com/python-keyboard-input/)
 - [Build a Contact Book App With Python, Textual, and SQLite](https://realpython.com/contact-book-python-textual/)
 - [Python Scope and the LEGB Rule: Resolving Names in Your Code](https://realpython.com/python-scope-legb-rule/)
+- [What Does isinstance() Do in Python?](https://realpython.com/what-does-isinstance-do-in-python/)
 - [Python Glossary](https://realpython.com/ref/glossary/)
 
 ## Mathspp
