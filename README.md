@@ -26,6 +26,8 @@ Python official page: https://www.python.org/
 ## Python Resources
 
 - [Full Stack Python](https://www.fullstackpython.com/)
+- [Python Cards](https://python.cards/)
+- [fstrings.wtf](https://fstrings.wtf/)
 
 ## Python EOL and Support
 
@@ -45,4 +47,3 @@ Python official page: https://www.python.org/
 - [Python Tutor](https://pythontutor.com/)
 - [Ty Web](https://types.ruff.rs/)
 - [Ruff Web](https://play.ruff.rs/)
-- [Python Cards](https://python.cards/)
