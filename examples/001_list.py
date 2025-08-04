@@ -1,6 +1,6 @@
 """Python: working with list"""
 
-result = [
+data = [
     {
         "Coin": "Akash",
         "Price": "2.10",
@@ -24,9 +24,9 @@ key_fields.append(1)
 value_fields.append(9)
 
 # Add values to the list:
-if result:
-    keys = list(result[0].keys())
-    values = list(result[0].values())
+if data:
+    keys = list(data[0].keys())
+    values = list(data[0].values())
 
     for key in keys:
         key_fields.append(key)
