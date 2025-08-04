@@ -1,4 +1,5 @@
-"""Python: working with list"""
+# Python: working with list
+# https://docs.python.org/3/tutorial/datastructures.html#more-on-lists
 
 data = [
     {
