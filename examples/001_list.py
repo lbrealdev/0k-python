@@ -67,8 +67,8 @@ key_fields.reverse()
 value_fields.reverse()
 
 # Debug lists:
-print(f"Reverse list (keys): {key_fields}")
-print(f"Reverse list (values): {value_fields}", end="\n\n")
+print(f"Reversed list (keys): {key_fields}")
+print(f"Reversed list (values): {value_fields}", end="\n\n")
 
 # Remove first item from lists.
 key_fields.remove("two")
