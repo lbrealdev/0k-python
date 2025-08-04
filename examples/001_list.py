@@ -7,14 +7,14 @@ data = [
         "Coin": "Akash",
         "Price": "2.10",
         "Max. supply": "20931",
-        "Circulating supply": "103405"
+        "Circulating supply": "103405",
     },
     {
         "Coin": "Bitcoin",
         "Price": "113096.71",
         "Max. supply": "21000000",
-        "Circulating supply": "19901015"
-    }
+        "Circulating supply": "19901015",
+    },
 ]
 
 # New empty lists

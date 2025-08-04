@@ -37,4 +37,3 @@ print(f"Saturday of the currently week: {satuday.strftime('%Y-%m-%d')}")
 print(f"Sunday of the currently week: {sunday.strftime('%Y-%m-%d')}")
 print()
 print()
-

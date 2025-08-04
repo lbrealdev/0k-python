@@ -11,6 +11,7 @@ def store_arguments(func):
         data.append((args, kwargs))
         value = func(*args, **kwargs)
         return value
+
     return inner
 
 

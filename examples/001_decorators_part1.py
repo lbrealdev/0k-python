@@ -9,6 +9,7 @@
 # A closure permits some data to persist when you call a function.
 # Therefore, each call of the function can "communicate" with previous and future calls of the same function.
 
+
 def print_with_memory():
     data = []
 
