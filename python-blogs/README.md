@@ -196,6 +196,8 @@
 - [Koan 2: The Tale of Two Scrolls](https://pythonkoans.substack.com/p/koan-2-the-tale-of-two-scrolls)
 - [Koan 3: The Ringing Bell](https://pythonkoans.substack.com/p/koan-3-the-ringing-bell)
 - [Unpack for keyword arguments](https://daniel.feldroy.com/posts/2025-07-unpack-for-keyword-arguments)
+- [TIL: Python Dictonary Merge Operator](https://daniel.feldroy.com/posts/til-2024-11-python-dictonary-merge-operator)
+- [TIL: Pipe operator for merging dictionaries](https://daniel.feldroy.com/posts/til-2025-04-Pipe-operator-for-merging-dictionaries)
 
 ## Python Releases
 
