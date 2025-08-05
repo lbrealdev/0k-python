@@ -1,3 +1,6 @@
+# https://github.com/prettytable/prettytable
+# https://pypi.org/project/prettytable/
+
 from prettytable import PrettyTable
 
 
