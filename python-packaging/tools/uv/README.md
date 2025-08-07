@@ -197,7 +197,6 @@ uv cache dir
 - [Docker images using uv's python](https://mkennedy.codes/posts/python-docker-images-using-uv-s-new-python-features/)
 - [Production-ready Docker Containers with uv](https://hynek.me/articles/docker-uv/)
 - [Switching from virtualenvwrapper to direnv, Starship, and uv](https://treyhunner.com/2024/10/switching-from-virtualenvwrapper-to-direnv-starship-and-uv/)
-- [A comprehensive guide to python project management and packaging concepts illustrated with uv part 1](https://reinforcedknowledge.com/a-comprehensive-guide-to-python-project-management-and-packaging-concepts-illustrated-with-uv-part-i/)
 - [pre-commit: install with uv](https://adamj.eu/tech/2025/05/07/pre-commit-install-uv/)
 - [Managing Python Versions In Your uv Projects](https://buttondown.com/pdth/archive/managing-python-versions-in-your-uv-projects/)
 - [Fun with uv and PEP 723](https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723)
@@ -209,6 +208,7 @@ uv cache dir
 - [How to Migrate your Python & Django Projects to uv](https://www.caktusgroup.com/blog/2025/06/11/migrating-python-django-projects-uv/)
 - [Managing Python Projects With uv: An All-in-One Solution](https://realpython.com/python-uv/)
 - [TIL: Single source version package builds with uv](https://daniel.feldroy.com/posts/til-2025-07-single-source-version-package-builds-with-uv)
+- [Python Tools and Scripts w/ UV CheatSheet](https://0xdf.gitlab.io/cheatsheets/uv)
 
 ## Resources
 
@@ -217,3 +217,12 @@ uv cache dir
 - [python-blueprint](https://github.com/johnthagen/python-blueprint)
 - [copier-uv](https://github.com/pawamoy/copier-uv)
 - [cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv)
+
+## uv comprehensive guide
+
+- [A Comprehensive Guide to Python Project Management and Packaging: Concepts Illustrated with uv – Part I](https://reinforcedknowledge.com/a-comprehensive-guide-to-python-project-management-and-packaging-concepts-illustrated-with-uv-part-i/)
+- [A Comprehensive Guide to Python Project Management and Packaging: Concepts Illustrated with uv – Part II](https://reinforcedknowledge.com/a-comprehensive-guide-to-python-project-management-and-packaging-concepts-illustrated-with-uv-part-2/)
+- [A Comprehensive Guide to Python Project Management and Packaging – Part II – High-level overview](https://reinforcedknowledge.com/a-comprehensive-guide-to-python-project-management-and-packaging-part-2-high-level-overview/)
+- [A Comprehensive Guide to Python Project Management and Packaging – Part II – Source trees and build systems interface](https://reinforcedknowledge.com/a-comprehensive-guide-to-python-project-management-and-packaging-part-2-source-trees-and-build-systems-interface/)
+- [A Comprehensive Guide to Python Project Management and Packaging – Part II – Sdists and wheels](https://reinforcedknowledge.com/a-comprehensive-guide-to-python-project-management-and-packaging-part-2-sdists-and-wheels/)
+- [A Comprehensive Guide to Python Project Management and Packaging – Part II – Editable installs, custom hooks and more customization](https://reinforcedknowledge.com/a-comprehensive-guide-to-python-project-management-and-packaging-part-ii-editable-installs-custom-hooks-and-more-customization/)
