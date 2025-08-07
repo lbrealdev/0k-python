@@ -198,6 +198,7 @@
 - [Unpack for keyword arguments](https://daniel.feldroy.com/posts/2025-07-unpack-for-keyword-arguments)
 - [TIL: Python Dictonary Merge Operator](https://daniel.feldroy.com/posts/til-2024-11-python-dictonary-merge-operator)
 - [TIL: Pipe operator for merging dictionaries](https://daniel.feldroy.com/posts/til-2025-04-Pipe-operator-for-merging-dictionaries)
+- [From Async/Await to Virtual Threads](https://lucumr.pocoo.org/2025/7/26/virtual-threads/)
 
 ## Python Releases
 
