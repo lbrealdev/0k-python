@@ -19,6 +19,7 @@
 - [inline script metadata](https://packaging.python.org/en/latest/specifications/inline-script-metadata/#inline-script-metadata)
 - [Entry Points](https://setuptools.pypa.io/en/latest/userguide/entry_point.html)
 - [Development Mode (a.k.a. “Editable Installs”)](https://setuptools.pypa.io/en/latest/userguide/development_mode.html)
+- [Build backends](https://packaging.python.org/en/latest/guides/tool-recommendations/#build-backends)
 
 ## Python Package Glossary
 

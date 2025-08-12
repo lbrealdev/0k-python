@@ -1,6 +1,9 @@
 # Python Examples
 
-// to do
+```shell
+uv venv --no-project .venv
+source .venv/bin/activate
+```
 
 ### Resources
 

@@ -4,6 +4,9 @@
 
 alias run := run-python-example
 
+@fmt:
+    ruff format .
+
 @setup:
     pre-commit install
 
