@@ -10,18 +10,19 @@ This repository is a kind of documentation about my knowledge about Python, here
 
 Python official page: https://www.python.org/
 
-- [Python Functions](python-functions/README.md)
-- [Python Classes and OOP](python-OOP/README.md)
-- [Python Data Structures](python-data-structure/README.md)
-- [Python Packaging and Dependency Management](python-packaging/README.md)
-- [Python Builds](python-builds/README.md)
-- [Python Virtual Environments](python-virtualenvs/README.md)
-- [Python Enhancement Proposals](python-peps/README.md)
-- [Python Testing](python-testing/README.md)
-- [Python GUI](python-gui/README.md)
-- [Python TUI](python-tui/README.md)
-- [Python Blogs](python-blogs/README.md)
-- [Python Web](python-web/README.md)
+- ## Python
+  - [functions](python/functions/README.md)
+  - [classes and OOP](python/oop/README.md)
+  - [data structures](python/data-structure/README.md)
+  - [packaging](python/packaging/README.md)
+  - [builds](python/builds/README.md)
+  - [venvs](python/virtualenvs/README.md)
+  - [peps](python/peps/README.md)
+  - [tests](python/testing/README.md)
+  - [gui](python/gui/README.md)
+  - [tui](python/tui/README.md)
+  - [blogs](python/python-blogs/README.md)
+  - [web](python/web/README.md)
 
 ## Python Resources
 
