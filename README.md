@@ -10,18 +10,18 @@ This repository is a kind of documentation about my knowledge about Python, here
 
 Python official page: https://www.python.org/
 
-- [Python Functions](https://github.com/lbrealdev/0k-python/tree/main/python-functions)
-- [Python Classes and OOP](https://github.com/lbrealdev/0k-python/tree/main/python-OOP)
-- [Python Data Structures](https://github.com/lbrealdev/0k-python/tree/main/python-data-structure)
-- [Python Packaging and Dependency Management](https://github.com/lbrealdev/0k-python/tree/main/python-packaging)
-- [Python Builds](https://github.com/lbrealdev/0k-python/tree/main/python-builds)
-- [Python Virtual Environments](https://github.com/lbrealdev/0k-python/tree/main/python-virtualenvs)
-- [Python Enhancement Proposals](https://github.com/lbrealdev/0k-python/blob/main/python-peps)
-- [Python Testing](https://github.com/lbrealdev/0k-python/blob/main/python-testing)
-- [Python GUI](https://github.com/lbrealdev/0k-python/blob/main/python-gui)
-- [Python TUI](https://github.com/lbrealdev/0k-python/blob/main/python-tui)
-- [Python Blogs](https://github.com/lbrealdev/0k-python/blob/main/python-blogs)
-- [Python Web](https://github.com/lbrealdev/0k-python/blob/main/python-web)
+- [Python Functions](python-functions/README.md)
+- [Python Classes and OOP](python-OOP/README.md)
+- [Python Data Structures](python-data-structure/README.md)
+- [Python Packaging and Dependency Management](python-packaging/README.md)
+- [Python Builds](python-builds/README.md)
+- [Python Virtual Environments](python-virtualenvs/README.md)
+- [Python Enhancement Proposals](python-peps/README.md)
+- [Python Testing](python-testing/README.md)
+- [Python GUI](python-gui/README.md)
+- [Python TUI](python-tui/README.md)
+- [Python Blogs](python-blogs/README.md)
+- [Python Web](python-web/README.md)
 
 ## Python Resources
 
