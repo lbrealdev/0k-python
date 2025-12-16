@@ -41,6 +41,11 @@ Update `uv` to the latest version:
 uv self update
 ```
 
+Get `uv` version:
+```shell
+uv self version
+```
+
 ### Python
 
 Install a specific Python version:
