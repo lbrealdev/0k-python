@@ -10,6 +10,6 @@ alias run := run-python-example
 @setup:
     pre-commit install
 
-[working-directory: 'examples']
+[working-directory: 'python-examples']
 @run-python-example target:
     python3 {{ target }}
