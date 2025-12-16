@@ -24,27 +24,18 @@ Python official page: https://www.python.org/
   - [blogs](python/python-blogs/README.md)
   - [web](python/web/README.md)
 
-## Python Resources
+- ## Python Resources
+  - [Full Stack Python](https://www.fullstackpython.com/)
+  - [Python Cards](https://python.cards/)
+  - [fstrings.wtf](https://fstrings.wtf/)
+  - [Python EOL](https://endoflife.date/python)
+  - [SpeedSheet - Python Sheet](https://speedsheet.io/s/python)
+  - [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 
-- [Full Stack Python](https://www.fullstackpython.com/)
-- [Python Cards](https://python.cards/)
-- [fstrings.wtf](https://fstrings.wtf/)
+- ## Python Forums
+  - [Discuss Python](https://discuss.python.org/latest)
 
-## Python EOL and Support
-
-- [Python EOL](https://endoflife.date/python)
-
-## Python Cheatsheets
-
-- [SpeedSheet - Python Sheet](https://speedsheet.io/s/python)
-- [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
-
-## Python Forums
-
-- [Discuss Python](https://discuss.python.org/latest)
-
-## Python Web Tools
-
-- [Python Tutor](https://pythontutor.com/)
-- [Ty Web](https://types.ruff.rs/)
-- [Ruff Web](https://play.ruff.rs/)
+- ## Python Web Tools
+  - [Python Tutor](https://pythontutor.com/)
+  - [Ty Web](https://types.ruff.rs/)
+  - [Ruff Web](https://play.ruff.rs/)
