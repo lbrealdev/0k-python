@@ -23,7 +23,7 @@ result = [
 table = PrettyTable()
 
 # Table tile
-table.title = "test table"
+table.title = "test table (add_row)"
 
 # Table fields style
 table.header_style = "upper"
@@ -52,6 +52,8 @@ print(table.get_string(sortby="Price"), end="\n\n")
 
 # Cleanup result list with `.clear()` method.
 result.clear()
+
+table.title = "test table (add_rows)"
 
 for coin in result:
     table.add_rows(
